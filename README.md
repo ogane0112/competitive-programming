@@ -1,6 +1,7 @@
 # competitive-programming
 競技プログラミングに関するものを何となく挙げてます
-#標準入力まとめ
+# 標準入力まとめ
+
 pythonの標準入力まとめ
 https://qiita.com/jamjamjam/items/e066b8c7bc85487c0785　　
       
